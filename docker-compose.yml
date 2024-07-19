@@ -6,9 +6,4 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 2900033
-      API_HASH: "55ecd4eccb3d775e76f224bec45b9879"
-      BOT_TOKEN: "6986450406:AAHcc1_J4b0rfFOVJjzxkMNMgRmkjXaITw8" 
-      SESSION: "BQAkLYiIR51qUJFBx2Wij3LKpsv690Ec30hTQBLriH4msNajTTkg5Mplcr12E8oP8e_aV3x8-uU3gfOdETXGV4K4-Yecxik_rg5d8dp8GYAN16JR9IoUl-CfQaIF4tnV_zeZUKpl14iiztQEyeuU_VAv-SogHF0KHaIhjP75ZBF110VcS2afsGVa0QnnvrTeXzOw5dMy4AT7DmrvsHzOVd5YBEFryoUcyyQb6HhtodpPbdY6SlYvli7sDfxNHCcAb5MOKPmhxjvVXALNN34MulJ55MsFMMoj2jBWF7GVzfHQNpsvTFrK1Dr53EeOR3O3L_QPMYeoX1VaidnM-HzD-FraVPKIAAA"
-      AUTH: 1425180672
-      FORCESUB: "chiragsave1209"
+    
